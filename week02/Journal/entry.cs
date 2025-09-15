@@ -1,5 +1,3 @@
-// Starts here
-
 using System;
 
 public class Entry
